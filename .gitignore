@@ -1,2 +1,5 @@
 # binary folder
 bin/*
+
+# test executable files
+*.out
